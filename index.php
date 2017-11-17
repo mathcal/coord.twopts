@@ -3,7 +3,7 @@
 <title>Calculator</title>
 </head>
 <body>
-<form method="post" attribute="post" action="coordtp2.php">
+<form method="post" attribute="post" action="cal.php">
 <p>X1:<br/>
 <input type="text" id="x1" name="x1"></p>
 <p>Y1:<br/>
