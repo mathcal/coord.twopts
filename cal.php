@@ -10,6 +10,7 @@ $slopex = "". $slope ."X";
 $xnew = -$x1;
 $slopex1 = $slope * $xnew;
 $sum = $slopex1 + $y1;
+echo "Calculation Is Done";
 echo "Slope: $slope";
 echo "Equation of line: Y = $slopex + $sum";
 ?>
